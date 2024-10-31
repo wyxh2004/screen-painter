@@ -1,0 +1,6 @@
+ColumnLimit: 0
+UseTab: Always
+ContinuationIndentWidth: 8
+IndentWidth: 8
+IndentCaseLabels: false
+IndentGotoLabels: false
