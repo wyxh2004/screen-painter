@@ -1,2 +1,6 @@
 CMakeCache.txt
-CMakeFiles/
+/CMakeFiles/
+/build/
+/.cache/
+/-p/
+compile_commands.json
